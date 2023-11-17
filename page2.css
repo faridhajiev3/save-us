@@ -1,0 +1,121 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.item {
+  background: url("./protectnature/c70d930ab341b6ad9ffb22f056b54413.jpeg");
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.main {
+  color: #ffff;
+  font-size: 18px;
+  text-decoration: none;
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  font-weight: 900;
+  letter-spacing: 14px;
+  font-family: "Roboto", sans-serif;
+}
+.medium {
+  color: #ffff;
+  font-size: 18px;
+  text-decoration: none;
+  position: absolute;
+  top: 5%;
+  left: 90%;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+}
+.unimportant {
+  color: #ffff;
+  font-size: 18px;
+  text-decoration: none;
+  position: absolute;
+  top: 5%;
+  left: 80%;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+}
+.trash {
+  border: solid 1px #ffff;
+  position: absolute;
+  top: 20%;
+  left: 20%;
+  height: 300px;
+  width: 200px;
+}
+.seaanimal {
+  border: solid 1px #ffff;
+  position: absolute;
+  top: 15%;
+  left: 35%;
+  width: 400px;
+  height: 350px;
+}
+.wood {
+  border: solid 1px #ffff;
+  position: absolute;
+  top: 20%;
+  left: 64%;
+}
+.secure {
+  color: #ffff;
+  position: absolute;
+  top: 60%;
+  left: 34%;
+  font-size: 75px;
+  font-weight: 900;
+  font-family: "Roboto", sans-serif;
+}
+.content {
+  position: absolute;
+  color: #ffff;
+  width: 900px;
+  top: 80%;
+  left: 20%;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+}
+.btn {
+  position: absolute;
+  top: 90%;
+  left: 40%;
+  padding: 8px 50px;
+  background-color: #1aacac;
+  color: #ffff;
+  border: none;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  letter-spacing: 7px;
+}
+.social-media {
+  color: #ffff;
+}
+.fa-facebook {
+  position: absolute;
+  left: 3%;
+  top: 83%;
+}
+.fa-twitter {
+  position: absolute;
+  left: 3%;
+  top: 88%;
+}
+.fa-instagram {
+  position: absolute;
+  left: 3%;
+  top: 93%;
+}
+.convert {
+  color: #ffff;
+  position: absolute;
+  left: 95%;
+  top: 90%;
+  transform: rotate(90deg);
+}
